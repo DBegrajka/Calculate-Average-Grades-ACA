@@ -1,0 +1,21 @@
+ClassC.csv row header is of wrong format
+The Highest Performing class = ClassB 
+The average score for all students regardless of class = 79.0
+Average Score for classes:
+ -> Average Score for ClassA = 79.4
+ -> Average Score for ClassB = 80.2
+ -> Average Score for ClassD = 77.4
+ClassA Information: 
+-Total number of students within the ClassA = 10
+-Discarded Students in ClassA:
+ -> Edith Adkins
+-Total Number of Student used to calculate ClassA Average = 9
+ClassB Information: 
+-Total number of students within the ClassB = 10
+-No Students Discarded. 
+-Total Number of Student used to calculate ClassB Average = 10
+ClassD Information: 
+-Total number of students within the ClassD = 12
+-Discarded Students in ClassD:
+ -> Edith Adkins
+-Total Number of Student used to calculate ClassD Average = 11
